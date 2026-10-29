@@ -1,4 +1,3 @@
-# WEEK-5
 # Week 5: Node.js, Express and MongoDB Lab
 
 A web development learning project using Node.js, Express,
